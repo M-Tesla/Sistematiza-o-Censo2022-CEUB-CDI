@@ -51,7 +51,7 @@ Trabalho de Ciência de Dados I (CEUB). Painel OLAP da Educação Básica brasil
 
 Slug local: `ods4-educacao-qualidade`
 
-URL local: http://127.0.0.1:8088/superset/dashboard/ods4-educacao-qualidade/
+URL local após subir o Superset: http://127.0.0.1:8088/superset/dashboard/ods4-educacao-qualidade/
 
 Abas:
 
