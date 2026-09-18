@@ -1,0 +1,20 @@
+{
+  "n_bruto": 224649,
+  "sem_codigo_escola": 0,
+  "codigo_escola_duplicado": 0,
+  "dependencia_invalida": 0,
+  "localizacao_invalida": 0,
+  "situacao_invalida": 0,
+  "banda_larga_sem_internet_corrigido": 0,
+  "acessibilidade_contraditoria_corrigida": 12604,
+  "escolas_sem_coordenada_municipio": 0,
+  "n_final": 224649,
+  "n_ativas": 184332,
+  "n_paralisadas_ou_extintas": 40317,
+  "matriculas_basicas_ativas": 47382074,
+  "docentes_basicos_ativos": 2924306,
+  "escolas_inclusao_sem_acessibilidade": 25911,
+  "matriculas_pcd_sem_acessibilidade": 153726,
+  "pct_nulos_internet_ativas": 0.023105049584445456,
+  "pct_nulos_matricula_ativas": 0.0324740142785843
+}
